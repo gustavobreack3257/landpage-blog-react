@@ -1,6 +1,6 @@
 {
   "workbench.statusBar.visible": false,
   "workbench.editor.showTabs": "single",
-  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreview": true,
   "workbench.activityBar.location": "hidden"
 }
